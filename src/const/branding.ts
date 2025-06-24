@@ -4,7 +4,7 @@
 
 export const LOBE_CHAT_CLOUD = 'Featherless AI';
 
-export const BRANDING_NAME = 'PhoenixChat';
+export const BRANDING_NAME = 'Phoenix';
 export const BRANDING_LOGO_URL = 'https://imagedelivery.net/Dv4koOwHQU3XnXLqtl0aVQ/c13e3114-b073-49dc-3ddb-114b4e379400/public';
 
 export const ORG_NAME = 'Featherless AI';
